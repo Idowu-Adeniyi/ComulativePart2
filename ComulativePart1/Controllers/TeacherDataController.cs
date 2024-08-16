@@ -20,7 +20,7 @@ namespace ComulativePart1.Controllers
 
         //This Controller Will access the teachers table of our school database.
         /// <summary>
-        /// Returns a list of Teachers in the system
+        /// Returns a list of Teachers in the system test
         /// </summary>
         /// <returns>
         /// A list of Teacher Objects with fields mapped to the database column values (first name, last name, hiredate, salary).

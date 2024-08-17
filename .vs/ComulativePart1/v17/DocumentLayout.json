@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\New.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\New.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\New.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\New.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T00:16:17.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TeacherDataController.cs",
               "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Controllers\\TeacherDataController.cs",
               "RelativeDocumentMoniker": "ComulativePart1\\Controllers\\TeacherDataController.cs",
               "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Controllers\\TeacherDataController.cs",
               "RelativeToolTip": "ComulativePart1\\Controllers\\TeacherDataController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA5AAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwEUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T23:42:05.031Z",
               "EditorCaption": ""

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\views\\teacher\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\comulativepart1\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommunulativep2\\comulativepart2\\comulativepart1\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +39,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeleteConfirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\DeleteConfirm.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\DeleteConfirm.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\DeleteConfirm.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\DeleteConfirm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T01:30:29.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\List.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\List.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\List.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T01:22:40.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "ComulativePart1\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "ComulativePart1\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:57:54.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\Show.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\Show.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\Show.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T00:38:20.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "New.cshtml",
               "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Views\\Teacher\\New.cshtml",
               "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\New.cshtml",
@@ -35,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TeacherDataController.cs",
               "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Controllers\\TeacherDataController.cs",
               "RelativeDocumentMoniker": "ComulativePart1\\Controllers\\TeacherDataController.cs",
               "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommunulativeP2\\ComulativePart2\\ComulativePart1\\Controllers\\TeacherDataController.cs",
               "RelativeToolTip": "ComulativePart1\\Controllers\\TeacherDataController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAgwEUAAAAPAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwDkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T23:42:05.031Z",
               "EditorCaption": ""
